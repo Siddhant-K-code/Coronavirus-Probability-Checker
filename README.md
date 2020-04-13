@@ -29,6 +29,12 @@ The Same Model can be used to find potential candidates for conducting random te
 
 There is a situation of fear among the people and spread of fake news is further making the situation worse. This Hack can be used to control this fear by self assessment of the user and their family. Also, if the prediction comes severe the authorities will be informed and this will be used to control the COVID-19 Pandemic upto a very large extent.
 
+## Instructions to run this model on your local machine : 
+* first run myTraining.py 
+* run main.py , through main.py you will get a localhost link and get redirected to your browser.
+
+
+
 
 
 
