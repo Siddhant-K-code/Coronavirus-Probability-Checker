@@ -1,3 +1,4 @@
+![Coronavirus-Probability-Checker](https://socialify.git.ci/Siddhant-K-code/Coronavirus-Probability-Checker/image?font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
 # Coronavirus Probability Checker
 
 # Short Brief
