@@ -20,10 +20,29 @@ html body{
     border-radius: 5px;
     height: 600px;
     width: 500px;
+    padding-top: 50px;
     padding-left: 50px;
     padding-right: 50px;
     background: rgb(68, 68, 197);
 }
-form .btn{
+.navbar button{
+    outline: none;
+}
+/* form .btn{
+    margin-top: 20px;
+} */
+@media (max-width:576px){
+    html,body{
+        background: rgb(68, 68, 197);
+    }
+
+    .container{
+        background: rgb(68, 68, 197);
+    }
+    form .btn{
     margin-top: 20px;
 }
+    .navbar{
+        background: rgb(68, 68, 197);
+    }
+    }
