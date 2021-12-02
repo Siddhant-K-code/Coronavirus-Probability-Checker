@@ -30,6 +30,14 @@ html body{
 .navbar button{
     outline: none;
 }
+.form-inline.btn{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background: rgb(68, 68, 197);
+    color: #fff;
+    border-radius: 5px;
+    border:0px;
+}
 form .btn{
     margin-top: 20px;
     margin-bottom: 50px;
