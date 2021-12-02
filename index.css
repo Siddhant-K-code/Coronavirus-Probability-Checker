@@ -3,34 +3,27 @@
     padding: 0;
     font-family: sans-serif;
 }
-html, body {
-    background-image: linear-gradient(rgb(187, 69, 241),rgb(67, 142, 185) );
+html body{
+    background-image: linear-gradient(90deg, rgb(187, 69, 241),rgb(67, 142, 185) );
     background-size: 280%;
     background-position:-400px 100px;
  }
 .section-one{
-    /* width: 700px;  */
-    /* height: 50px;*/
-    margin: 100px auto 100px auto; 
+   top:50%;
+   height: 100vh;
+   width: 100vw;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
 .container{ 
-    height: 100%;
-    margin-top: 0; 
-    border: 2px solid red;
+    border-radius: 5px;
+    height: 600px;
+    width: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background: rgb(68, 68, 197);
 }
-/*
-.container .container-item{
-    background-color: rgba(0, 0, 255, 0.76);
-    padding:100px;
-    margin: 100px;
-    border: 2px solid red;
+form .btn{
+    margin-top: 20px;
 }
-.navbar{    
-    margin: auto;
-}
-.text-center{
-    background-color: blueviolet;
-    margin: 0px;
-    padding: 4px;
-}
-*/
