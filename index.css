@@ -19,27 +19,38 @@ html body{
 .container{ 
     border-radius: 5px;
     height: 600px;
-    width: 500px;
-    padding-top: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
+    width: 600px;
+    padding: 30px;
+    /* margin-bottom: 30px; */
     background: rgb(68, 68, 197);
+}
+.container h2{
+    color: white;
 }
 .navbar button{
     outline: none;
 }
-/* form .btn{
+form .btn{
     margin-top: 20px;
-} */
+    margin-bottom: 50px;
+}
 @media (max-width:576px){
     html,body{
+        background: rgb(68, 68, 197);
+    }
+    .section-one{
         background: rgb(68, 68, 197);
     }
 
     .container{
         background: rgb(68, 68, 197);
     }
+    .container h2{
+        margin-top: 10px;
+        font-size: 25px;
+    }
     form .btn{
+    margin-bottom: 60px;
     margin-top: 20px;
 }
     .navbar{
